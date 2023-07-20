@@ -1,2 +1,3 @@
-# HomePage
-Description of my Github
+- Hi, welcome to my Github!
+- I'm currently an Engineering Coordinator, who is training and is constantly learning to become a Data Analyst.
+- You can reach me on my [LinkedIn](https://www.linkedin.com/in/timothy-franks-2b20b888/)
